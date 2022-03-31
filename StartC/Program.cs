@@ -1,0 +1,10 @@
+﻿int startNumber = 1;
+int a = 2;
+int b = 3 * 1;
+int c = 2 * 2;
+int d = 5;
+int addNumber  = a * b;
+int divNumber  = d / b;
+int equNumber  = a + d / c;
+int minusValue = -19;
+int subNumber  = a - a;
